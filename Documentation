@@ -5,7 +5,7 @@ Fetch Rewards Coding Exercise Documentation
 
 1)	Framework: ReactJS 
 
-2)	Application Setup : a) Download the application from:
+2)	Application Setup : a) Download the application from: https://github.com/RamRudraraju/fetchProject
                         b) node version: v12.18.3
                         c) npm i (Installing the dependencies)
                         d) npm start (Running the App)
