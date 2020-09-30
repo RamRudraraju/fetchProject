@@ -1,0 +1,27 @@
+# fetchProject
+API Fetch
+
+Fetch Rewards Coding Exercise Documentation
+
+1)	Framework: ReactJS 
+
+2)	Application Setup : a) Download the application from:
+                        b) node version: v12.18.3
+                        c) npm i (Installing the dependencies)
+                        d) npm start (Running the App)
+
+3)	I used four components in this project
+      a)	NavBar: It holds the Company Name & Logo.
+      b)	Fetch: It contains static table header & dynamic table body.
+      c)	FetchItem: It holds the table body.
+      d)	Spinner: It contains a snipper.gif file.
+
+4)  In App.js file I implemented the following operations.
+      a)   API calls are made using the “axios” package. 
+      b)   Filtering null & “” names.
+      c)   Logic to display the obtained data in a group & in order. 
+          
+
+ 
+
+
